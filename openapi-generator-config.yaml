@@ -1,0 +1,6 @@
+  templateDir: ./template
+  additionalProperties:
+    npmName: "@omnix-ia/ocl-client" #Change name for openapi client repo name
+    npmRepository : https://npm.pkg.github.com
+    snapshot : false
+    supportsES6: true
